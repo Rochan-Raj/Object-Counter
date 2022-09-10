@@ -1,4 +1,4 @@
-# object_Counter
+# Object_Counter
 
 ## Description:
 In this project, I created an object counting system based on Computer Vision (CV).
