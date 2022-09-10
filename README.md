@@ -39,14 +39,12 @@ The first detector I used to identify an object was a background subtractor. Bac
 
 The images below show what background subtraction looks like.
 
+![image](https://user-images.githubusercontent.com/85439772/189491939-1578c4a8-b117-42b4-8aeb-1487e259fb43.png)
+
+
 ![image](https://user-images.githubusercontent.com/85439772/189491413-828be8a9-e2b4-48f8-8b2e-ed8cb232cb02.png)
 
 
-![image](https://user-images.githubusercontent.com/85439772/189491403-be601888-108e-4fdb-9254-95d381b13ab0.png)
-
-![image](https://user-images.githubusercontent.com/85439772/189491420-2d742832-62cb-4b95-9f3a-572afc8f78e1.png)
-
-![image](https://user-images.githubusercontent.com/85439772/189491426-c1af3cc4-23fd-4d05-99fa-c0c974f2c852.png)
 
 
 ## Deep Sort For Vehicle tracking
